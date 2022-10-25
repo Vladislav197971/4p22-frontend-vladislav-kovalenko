@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.IndexPage-header {
+    position: fixed;
+    width: 100%;
+    height: 99px;
+    left: 0px;
+    top: 0px;
+    background: #000081;
+    z-index: 2;
+}
+
+.IndexPage-headerTitle {
+    position: fixed;
+    width: 403px;
+    height: 63px;
+    left: 29px;
+    top: 10px;
+    margin: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 63px;
+    color: #ffffff
+}
+
+
+
+.IndexPage-asideBox {
+    position: fixed;
+    width: 250px;
+    height: 457px;
+    left: 5px;
+    top: 136px;
+}
+
+.IndexPage-asideHeader {
+    position: fixed;
+    width: 240px;
+    height: 33px;
+    left: 20px;
+    top: 165px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.IndexPage-asideLink {
+    position: fixed;
+    width: 206px;
+    height: 28px;
+    left: 20px;
+    top: 220px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #FF710B;
+}
+
+.IndexPage-asideLink2 {
+    position: fixed;
+    width: 209px;
+    height: 28px;
+    left: 20px;
+    top: 245px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #FF710B;
+}
+
+.IndexPage-asideLink3 {
+    position: fixed;
+    width: 204px;
+    height: 28px;
+    left: 20px;
+    top: 270px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #FF710B;
+}
+
+.IndexPage-asideLine {
+    position: fixed;
+    width: 2px;
+    height: 520px;
+    left: 280px;
+    top: 119px;
+    background: #C4C4C4;
+}
+
+
+
+.IndexPage-containerBlock {
+    position: relative;
+    top: 120px;
+    left: 300px;
+    bottom: 5px;
+    width: 1230px;
+    height: 600px;
+    border: 5px;
+    background: #fff;
+    overflow-y: scroll;
+}
+
+
+
+.IndexPage-rectangle {
+    position: sticky;
+    left: 0px;
+    top: 0px;   
+    width: 1190px;
+    height: 41px;
+    border-radius: 7px;
+    background: #2a2a2a;
+    z-index: 1;
+}
+
+.IndexPage-rectangleTitle {
+    position: absolute;
+    width: 19px;
+    height: 33px;
+    left: 15px;
+    top: 5px;
+    margin: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;  
+    color: rgb(255, 255, 255);
+}
+
+.IndexPage-contentList {
+    position: relative;
+    width: 132px;
+    height: 396px;
+    left: 15px;
+    top: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.IndexPage-footer {
+width: 1200px;
+height: 400px;
+}
